@@ -17,4 +17,4 @@
 
 ###The curve AUC is 72%
 
-Finally, we split the dataset into a training set and a test set to make predictions.
+###Finally, we split the dataset into a training set and a test set to make predictions, using the same variables as the finallogmodel.
